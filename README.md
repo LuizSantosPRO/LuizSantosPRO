@@ -5,11 +5,15 @@
 Meu nome é Luiz Santos, tenho 54 anos e sou natural de Goiás. Sou formado em Administração/Logística e atuei nessa área por muitos anos em empresas multinacionais, porém, lá no começo fiz o curso técnico em informática e ministrei aulas de informática básica e desenvolvimento de sistemas no Senac. Atualmente, estou voltando às origens aprendendo e ensinando on-line, sobre dicas e truques em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Luiz Santos](https://www.youtube.com/@luizsantos271)", e também através do Instagram, com o perfil chamado "[Dev Expert](https://www.instagram.com/ajuda.expert/)".
 
 <p align="left">
-<!--
+
     <a href="https://www.youtube.com/@luizsantos271?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/luizsantos271?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+            <!--
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
